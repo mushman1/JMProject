@@ -1,0 +1,6 @@
+[{
+	"elementaryProductID":1,
+	"bonuseMalus":30,
+	"deductible":500,
+	comprehensive":1
+}]
